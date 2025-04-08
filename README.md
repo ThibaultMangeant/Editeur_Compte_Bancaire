@@ -12,9 +12,7 @@ L'Éditeur de Compte Bancaire est une application Java conçue pour gérer facil
 2. Une fois extrait, accédez au dossier `Editeur de compte bancaire`. Ce dernier contient :
    - `Lancer_Editeur_de_compte_bancaire.bat`
    - `EditeurCompteBancaire.jar`
-3. **Pour lancer l'application**, vous pouvez :
-   - Double-cliquer sur `Lancer_Editeur_de_compte_bancaire.bat`.
-   - Ou double-cliquer sur `EditeurCompteBancaire.jar` (à condition qu'il soit associé à Java et non à un gestionnaire d'archives comme WinRAR).
+3. **Pour lancer l'application**, exécutez le fichier EditeurCompteBancaire.jar à l’aide de Java. Veillez à ce que le fichier soit bien ouvert avec Java et non avec un gestionnaire d’archives tel que WinRAR, qui est parfois sélectionné par défaut.
 
 ## Fonctionnement de l'application
 
